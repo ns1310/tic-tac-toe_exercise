@@ -17,3 +17,8 @@ h1 {
     font-size: 48px;
     padding: 30px;
 }
+
+p {
+    text-align: center;
+    font-size: 25px;
+}
