@@ -1,7 +1,19 @@
-.container {
+*{
+    margin: 0;
+    padding: 0
+}
+
+
+.game-container {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
-    background: #b35959;
+    background: #e3e3e3;
 }
 
+h1 {
+    text-align: center;
+    font: bold;
+    font-size: 48px;
+    padding: 30px;
+}
